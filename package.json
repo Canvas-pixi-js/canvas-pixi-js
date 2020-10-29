@@ -1,5 +1,5 @@
 {
-  "name": "electron-webpack-quick-start",
+  "name": "canvas-pixi-js",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "pixi.js": "^5.3.3",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.17"
   },
   "devDependencies": {
     "electron": "10.1.5",
-    "electron-builder": "^22.4.1",
+    "electron-builder": "^22.9.1",
     "electron-webpack": "^2.8.2",
-    "webpack": "~4.42.1"
+    "webpack": "~4.44.0"
   }
 }
