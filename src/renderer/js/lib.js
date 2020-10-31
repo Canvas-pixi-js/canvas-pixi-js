@@ -38,7 +38,8 @@ addEventListener('resize', () => {
 const rendererType = ["CANAVAS", "WEBGL", "UNKNOWN"]
 
 console.log("isWebGLSupported:" + PIXI.utils.isWebGLSupported());
-console.log("app.renderer.type:" + rendererType[app.renderer.type]);
+console.log("app.renderer.type(number):" + app.renderer.type);
+console.log("app.renderer.type(string):" + rendererType[app.renderer.type]);
 
 // PIXI Text
 let text = new PIXI.Text('This is a PixiJS text',

@@ -40,7 +40,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "89ba15ba12e3b1c2a042";
+/******/ 	var hotCurrentHash = "5178ddef9c5835e66406";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -867,8 +867,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Project\GitHub Desktop\canvas-pixi-js\node_modules\electron-webpack\out\electron-main-hmr\main-hmr */"./node_modules/electron-webpack/out/electron-main-hmr/main-hmr.js");
-module.exports = __webpack_require__(/*! E:\Project\GitHub Desktop\canvas-pixi-js\src\main\index.js */"./src/main/index.js");
+__webpack_require__(/*! D:\GitHub\canvas-pixi-js\node_modules\electron-webpack\out\electron-main-hmr\main-hmr */"./node_modules/electron-webpack/out/electron-main-hmr/main-hmr.js");
+module.exports = __webpack_require__(/*! D:\GitHub\canvas-pixi-js\src\main\index.js */"./src/main/index.js");
 
 
 /***/ }),
